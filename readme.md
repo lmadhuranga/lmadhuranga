@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Maduranga Senadheera (@lmadhuranga)
 
-Senior Full-Stack Developer with 10+ years of experience building scalable, high-performance web applications. I mainly work with **React, Next.js, NestJS, and Node.js**, and enjoy building products in the **fintech and e-commerce** space.
+Senior Full-Stack Developer with 10+ years of experience building scalable, high-performance web apps. I spend most of my time crafting things with React, Next.js, NestJS, and Node.js, and genuinely enjoy building products in fintech and e-commerce.
 
 📍 Dubai, UAE
 
